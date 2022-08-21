@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "NQ-VaLLoJqacMLn32ePq_",
+      "title": "Buy a book",
+      "completed": false
+    },
+    {
+      "id": "gRy3mHpjnm9XyUVymB0-Y",
+      "title": "Buy a macbook",
+      "completed": false
+    },
+    {
+      "id": "WipAFPy7z51ojtjCCqJLq",
+      "title": "Learn GraphQL",
+      "completed": false
+    },
+    {
+      "id": "aN0b8d21Kr3HGcqNdhnBL",
+      "title": "Learn something",
+      "completed": false
+    }
+  ]
+}
